@@ -1,8 +1,12 @@
 ## 👋 Hey there, I'm Adina!
 
-🎓 Computer Engineering Student  
+🎓 Diploma in Computer Engineering Student  
 💻 Web Development & Software Engineering  
 🚀 Passionate about building meaningful tech and turning ideas into reality
+🧠 Keen interest in ML models, Python, Data.........
+
+---
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Lifelong+Learner)
 
 ---
 
@@ -23,13 +27,8 @@
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ---
-
-### 📊 GitHub Stats
-![Adina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adina1910&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adina1910&layout=compact&theme=radical)
