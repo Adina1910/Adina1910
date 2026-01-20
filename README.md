@@ -6,7 +6,7 @@
 🧠 Keen interest in ML models, Python, Data.........
 
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Lifelong+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=👋+Hey+there!;I+am+Adina)
 
 ---
 
