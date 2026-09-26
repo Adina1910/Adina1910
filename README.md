@@ -1,6 +1,6 @@
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=26&color=C77DFF&lines=👋+Hey+there....+I+am+Adina!👧)
 
-🎓 Diploma in Computer Engineering Student  
+🎓 B.E. CSE(CS) at Thakur College of Engineering & technology 
 💻 Web Development & Software Engineering  
 🚀 Passionate about building meaningful tech and turning ideas into reality
 🧠 Keen interest in ML models, Python, Data....⁓♪
